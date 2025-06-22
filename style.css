@@ -79,12 +79,13 @@
 }
 
 .card{
-    margin-left: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
 }
 
 #seta-esquerda{
     display: none;
-
 }
 
 #bruna{
@@ -92,7 +93,8 @@
 }
 
 .seta{
-    margin-top: 35%;
+    margin-top: 30%;
+    margin-left: 10px;
     cursor: pointer;
 }
 
